@@ -1,7 +1,7 @@
 This use case diagram represents the interaction between different actors (Customer, Technician, Bank System, and Bank Admin) and the ATM system. 
 It shows how each actor performs specific operations through defined use cases within the ATM machine.
-Actors
 
+Actors
 Customer
 Interacts with the ATM to perform transactions such as withdrawing cash, checking balance, transferring funds, and depositing money.
 
